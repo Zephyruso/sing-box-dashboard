@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.30.1](https://github.com/Zephyruso/zashboard/compare/v1.30.0...v1.30.1) (2024-12-20)
+
+
+### Bug Fixes
+
+* rule card & ctrls style ([529fe0e](https://github.com/Zephyruso/zashboard/commit/529fe0e478c699cd328d96f49e574d73412978bf))
+
 ## [1.30.0](https://github.com/Zephyruso/zashboard/compare/v1.29.4...v1.30.0) (2024-12-19)
 
 
